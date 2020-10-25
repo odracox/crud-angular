@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": "3.45"
+    },
+    {
+      "id": 2,
+      "name": "Lapis",
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Caderno",
+      "price": 9
+    },
+    {
+      "name": "Durex",
+      "price": "4.5",
+      "id": 4
+    },
+    {
+      "name": "Folha A4",
+      "price": "20",
+      "id": 6
+    },
+    {
+      "name": "JBL Box",
+      "price": "90",
+      "id": 7
+    }
+  ]
+}
